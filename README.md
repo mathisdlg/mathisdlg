@@ -23,4 +23,4 @@ My name is mathis and I'm a French student in my third year of a bachelor's degr
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,unreal&theme=dark)](https://skillicons.dev)
 
 
-![mathisdlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisdlg&show_icons=true&theme=transparent)
+[![mathisdlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisdlg&show_icons=true&theme=transparent)](https://github.com/mathisdlg)
