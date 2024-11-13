@@ -24,3 +24,4 @@ My name is mathis and I'm a French student in my third year of a bachelor's degr
 
 
 [![mathisdlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisdlg&show_icons=true&theme=transparent)](https://github.com/mathisdlg)
+[![mathisdlg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdlg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/mathisdlg)
